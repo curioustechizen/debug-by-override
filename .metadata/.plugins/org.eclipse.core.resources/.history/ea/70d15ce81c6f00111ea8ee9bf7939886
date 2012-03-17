@@ -1,9 +1,0 @@
-package in.curioustechizen.odbg.lib;
-import java.util.List;;
-
-public class Laundry {
-
-	public void doLaundry(List<Clothes>){
-		
-	}
-}

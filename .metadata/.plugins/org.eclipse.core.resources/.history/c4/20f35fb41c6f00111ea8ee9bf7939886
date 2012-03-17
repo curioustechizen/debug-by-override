@@ -1,8 +1,0 @@
-package in.curioustechizen.odbg.lib;
-
-public class Shape {
-
-	public void resize(int newWidth, int newHeight){
-		
-	}
-}
