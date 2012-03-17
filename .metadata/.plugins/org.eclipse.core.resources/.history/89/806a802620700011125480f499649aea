@@ -1,0 +1,12 @@
+package in.curioustechizen.odbg.lib;
+import java.util.List;
+
+public class Laundry {
+
+	private WashingMachine machine;
+	private Drier drier;
+	private Clothesline line;
+	public void doLaundry(List<ClothingItem> clothes){
+		
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.curioustechizen.odbg.lib.Drier&apos; to &apos;Dryer&apos;&#x0A;- Original project: &apos;OverrideDebugLib&apos;&#x0A;- Original element: &apos;in.curioustechizen.odbg.lib.Drier&apos;&#x0A;- Renamed element: &apos;in.curioustechizen.odbg.lib.Dryer&apos;&#x0A;- Update references to refactored element&#x0A;- Rename similarly named elements&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Drier&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.curioustechizen.odbg.lib{Drier.java[Drier" matchStrategy="1" name="Dryer" patterns="*" qualified="true" references="true" similarDeclarations="true" stamp="1331983527346" textual="true" version="1.0"/>
+</session>

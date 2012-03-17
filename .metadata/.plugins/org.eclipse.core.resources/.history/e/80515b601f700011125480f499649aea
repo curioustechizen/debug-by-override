@@ -1,0 +1,7 @@
+package in.curioustechizen.odbg.lib;
+
+public class ClothingItem {
+	private String type;
+	private String color;
+	
+}

@@ -1,0 +1,8 @@
+package in.curioustechizen.odbg.lib;
+
+public class Laundry {
+
+	public void doLaundry(List<Clothes>){
+		
+	}
+}
